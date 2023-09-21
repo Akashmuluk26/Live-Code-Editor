@@ -43,10 +43,11 @@ iframe{
     outline: 0;
 }
    
-label i{
+img{
     margin-right: 10px;
     margin-left: 10px;
 }
+
 label{
     display: flex;
     align-items: center;
